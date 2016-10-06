@@ -5,3 +5,13 @@
 	* git status
 	* git diff
 
+- Staging the changes
+	* git add <file>
+
+- Comminting your changes (ups forgot a fancy commit/the third commit)
+	* git commit -m "your comment"
+
+- History
+	* git log
+
+
