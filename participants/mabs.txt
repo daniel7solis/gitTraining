@@ -14,4 +14,9 @@
 - History
 	* git log
 
+- Discarting the changes
+	* git checkout -- <file>
+	* git reset HEAD <file>
 
+- Remove your changes
+	* git rm <file>
