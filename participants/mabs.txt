@@ -1,0 +1,7 @@
+- Basic
+	* git init .- Initializing a Repository in an Existing Directory.
+
+- Status
+	* git status
+	* git diff
+
